@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/abb-java-project/abb-java-project.iml" filepath="$PROJECT_DIR$/abb-java-project/abb-java-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/abb-tech.iml" filepath="$PROJECT_DIR$/abb-tech.iml" />
     </modules>
   </component>

@@ -1,16 +1,24 @@
-/*HR — İşçi və Menecer
-Bir şirkətin HR sistemini modelləşdir. İşçi adlı ata class yarat —
-hər işçinin ad-ı var və bu, konstruktor vasitəsilə təyin olunur.
-Menecer class-ı İşçi-dən miras alsın və əlavə olaraq komandaSayi xüsusiyyətinə malik olsun.
-Menecerin konstruktoru həm ad, həm komanda sayını qəbul etsin və ata hissəni super vasitəsilə qursun.
-Bir Menecer obyekti yaradıb məlumatlarını ekrana çıxar.
+/*Bildiriş zənciri
+Bir bildiriş sistemi qur. Bildiriş ata class-ında gonder() metodu olsun
+(ümumi bir mesaj çap etsin). EmailBildiris class-ı Bildiriş-dən miras alıб gonder()-i override etsin —
+amma öz işini görməzdən əvvəl ata versiyasını super.gonder() ilə çağırsın,
+sonra öz email-ə aid əlavəsini etsin. Daha sonra TeciliEmailBildiris class-ını
+EmailBildiris-dən miras aldır (çoxsəviyyəli) və eyni məntiqlə bir addım da genişləndir.
+Hər üç səviyyədən obyekt yaradıб nəticəni müşahidə et.
  */
-
 
 public class Main {
     public static void main(String[] args) {
-        Menecer menecer = new Menecer("Yunis bey", 10);
+        System.out.println("   1. Səviyyə (Ata)   ");
+        Bildiris b1 = new Bildiris();
+        b1.gonder();
 
-        menecer.melumatlariGoster();
+        System.out.println("\n   2. Səviyyə (Email)  ");
+        EmailBildiris b2 = new EmailBildiris();
+        b2.gonder();
+
+        System.out.println("\n   3. Səviyyə (Təcili Email)   ");
+        TeciliEmailBildiris b3 = new TeciliEmailBildiris();
+        b3.gonder();
     }
 }

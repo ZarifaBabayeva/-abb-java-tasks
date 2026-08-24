@@ -23,7 +23,7 @@ public class ProgressBarTest extends BaseTest {
         pgPage.bolmeyeGec();
 
         pgPage.startBas();
-        pgPage.artimiGozle(); // 0% olana qədər gözləyirik
+        pgPage.artimiGozle();
 
         int cariFaiz = pgPage.getProqresFaizi();
         Assert.assertTrue(cariFaiz > 0, "Proqres artmadı!");
@@ -48,7 +48,6 @@ public class ProgressBarTest extends BaseTest {
                     .until(d -> pgPage.getProqresFaizi() > dayandigiAndakiFaiz);
             Assert.fail("Stop basılsa da proqres davam etdi!");
         } catch (Exception e) {
-            // Gözlənilən budur: Timeout olmalıdır, yəni faiz artmamalıdır
             Assert.assertEquals(pgPage.getProqresFaizi(), dayandigiAndakiFaiz, "Dayandıqdan sonra dəyər dəyişdi!");
         }
     }

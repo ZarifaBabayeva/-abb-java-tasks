@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.seleniumhq.selenium:selenium-ie-driver:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.46.0/selenium-ie-driver-4.46.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.64.0/opentelemetry-sdk-extension-autoconfigure-spi-1.64.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-latest:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-devtools-latest/4.46.0/selenium-devtools-latest-4.46.0.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.18.11">
+    <archive path="C:/Users/zarifa/.m2/repository/net/bytebuddy/byte-buddy/1.18.11/byte-buddy-1.18.11.jar" />
+  </library>
+  <library name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava">
+    <archive path="C:/Users/zarifa/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-manager:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.46.0/selenium-manager-4.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-http:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-http/4.46.0/selenium-http-4.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-safari-driver:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.46.0/selenium-safari-driver-4.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-os:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-os/4.46.0/selenium-os-4.46.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-logs:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.64.0/opentelemetry-sdk-logs-1.64.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.46.0/selenium-remote-driver-4.46.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-exporter-logging:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.64.0/opentelemetry-exporter-logging-1.64.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.64.0/opentelemetry-sdk-1.64.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.64.0/opentelemetry-sdk-extension-autoconfigure-1.64.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:2.0.17">
+    <archive path="C:/Users/zarifa/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-common:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.64.0/opentelemetry-sdk-common-1.64.0.jar" />
+  </library>
+  <library name="Maven: org.jspecify:jspecify:1.0.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-edge-driver:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.46.0/selenium-edge-driver-4.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-api:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-api/4.46.0/selenium-api-4.46.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-api:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-api/1.64.0/opentelemetry-api-1.64.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-support:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-support/4.46.0/selenium-support-4.46.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-context:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-context/1.64.0/opentelemetry-context-1.64.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-trace:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.64.0/opentelemetry-sdk-trace-1.64.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.46.0/selenium-firefox-driver-4.46.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-metrics:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.64.0/opentelemetry-sdk-metrics-1.64.0.jar" />
+  </library>
+  <library name="Maven: com.google.guava:failureaccess:1.0.3">
+    <archive path="C:/Users/zarifa/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-java:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-java/4.46.0/selenium-java-4.46.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-common:1.64.0">
+    <archive path="C:/Users/zarifa/.m2/repository/io/opentelemetry/opentelemetry-common/1.64.0/opentelemetry-common-1.64.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.46.0/selenium-chrome-driver-4.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v149:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v149/4.46.0/selenium-devtools-v149-4.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v150:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v150/4.46.0/selenium-devtools-v150-4.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chromium-driver:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.46.0/selenium-chromium-driver-4.46.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v148:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v148/4.46.0/selenium-devtools-v148-4.46.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jcl-over-slf4j:1.7.30">
+    <archive path="C:/Users/zarifa/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar" />
+  </library>
+  <library name="Maven: org.brotli:dec:0.1.2">
+    <archive path="C:/Users/zarifa/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar" />
+  </library>
+  <library name="Maven: com.google.j2objc:j2objc-annotations:3.1">
+    <archive path="C:/Users/zarifa/.m2/repository/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar" />
+  </library>
+  <library name="Maven: com.google.auto.service:auto-service-annotations:1.1.1">
+    <archive path="C:/Users/zarifa/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-json:4.46.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/seleniumhq/selenium/selenium-json/4.46.0/selenium-json-4.46.0.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:33.6.0-jre">
+    <archive path="C:/Users/zarifa/.m2/repository/com/google/guava/guava/33.6.0-jre/guava-33.6.0-jre.jar" />
+  </library>
+  <library name="Maven: org.webjars:jquery:3.7.1">
+    <archive path="C:/Users/zarifa/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents.core5:httpcore5:5.4">
+    <archive path="C:/Users/zarifa/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.4/httpcore5-5.4.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:7.12.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/testng/testng/7.12.0/testng-7.12.0.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java-transport-httpclient5:3.7.1">
+    <archive path="C:/Users/zarifa/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.7.1/docker-java-transport-httpclient5-3.7.1.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jna:jna:5.18.1">
+    <archive path="C:/Users/zarifa/.m2/repository/net/java/dev/jna/jna/5.18.1/jna-5.18.1.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-compress:1.28.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.20.0">
+    <archive path="C:/Users/zarifa/.m2/repository/commons-io/commons-io/2.20.0/commons-io-2.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.code.gson:gson:2.13.2">
+    <archive path="C:/Users/zarifa/.m2/repository/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java:3.7.1">
+    <archive path="C:/Users/zarifa/.m2/repository/com/github/docker-java/docker-java/3.7.1/docker-java-3.7.1.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java-api:3.7.1">
+    <archive path="C:/Users/zarifa/.m2/repository/com/github/docker-java/docker-java-api/3.7.1/docker-java-api-3.7.1.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.20.1">
+    <archive path="C:/Users/zarifa/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.20.1/jackson-databind-2.20.1.jar" />
+  </library>
+  <library name="Maven: com.google.errorprone:error_prone_annotations:2.41.0">
+    <archive path="C:/Users/zarifa/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.20">
+    <archive path="C:/Users/zarifa/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.20/jackson-annotations-2.20.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents.client5:httpclient5:5.6">
+    <archive path="C:/Users/zarifa/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.6/httpclient5-5.6.jar" />
+  </library>
+  <library name="Maven: io.github.bonigarcia:webdrivermanager:6.3.4">
+    <archive path="C:/Users/zarifa/.m2/repository/io/github/bonigarcia/webdrivermanager/6.3.4/webdrivermanager-6.3.4.jar" />
+  </library>
+  <library name="Maven: org.jcommander:jcommander:1.83">
+    <archive path="C:/Users/zarifa/.m2/repository/org/jcommander/jcommander/1.83/jcommander-1.83.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.20.1">
+    <archive path="C:/Users/zarifa/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.20.1/jackson-core-2.20.1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.4">
+    <archive path="C:/Users/zarifa/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.4/httpcore5-h2-5.4.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java-core:3.7.1">
+    <archive path="C:/Users/zarifa/.m2/repository/com/github/docker-java/docker-java-core/3.7.1/docker-java-core-3.7.1.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.19.0">
+    <archive path="C:/Users/zarifa/.m2/repository/commons-codec/commons-codec/1.19.0/commons-codec-1.19.0.jar" />
+  </library>
+  <library name="Maven: com.github.docker-java:docker-java-transport:3.7.1">
+    <archive path="C:/Users/zarifa/.m2/repository/com/github/docker-java/docker-java-transport/3.7.1/docker-java-transport-3.7.1.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.20.0">
+    <archive path="C:/Users/zarifa/.m2/repository/org/apache/commons/commons-lang3/3.20.0/commons-lang3-3.20.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

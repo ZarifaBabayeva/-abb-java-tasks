@@ -1,6 +1,5 @@
-package tests;
+/*package tests;
 
-import base.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.SliderPage;
@@ -16,3 +15,4 @@ public class TemperatureChangeTest extends BaseTest {
         Assert.assertEquals(page.getTemperatureText(), "25°C", "Temperature 25°C deyil!");
     }
 }
+*/

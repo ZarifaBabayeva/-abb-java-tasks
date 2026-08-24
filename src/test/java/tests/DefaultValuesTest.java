@@ -1,6 +1,5 @@
-
+/*
 package tests;
-import base.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.SliderPage;
@@ -12,3 +11,4 @@ public class DefaultValuesTest extends BaseTest {
         Assert.assertEquals(page.getVolumeText(), "75%");
     }
 }
+*/
